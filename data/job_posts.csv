@@ -1,0 +1,11 @@
+id,title,description,skills_required
+1,Data Scientist,"We are looking for a Data Scientist with experience in Python, Machine Learning, and SQL.","Python;Machine Learning;SQL"
+2,Software Engineer,"Develop and maintain software applications. Required: Java, Git, Docker.","Java;Git;Docker"
+3,Machine Learning Engineer,"Build and deploy ML models using TensorFlow and AWS.","TensorFlow;AWS;Python"
+4,Frontend Developer,"Create responsive web interfaces using React and JavaScript.","React;JavaScript;HTML;CSS"
+5,Data Analyst,"Perform data cleaning, visualization, and reporting using Excel and Tableau.","Excel;Tableau;SQL;Data Visualization"
+6,DevOps Engineer,"Manage CI/CD pipelines, deploy Docker containers on cloud infrastructure.","CI/CD;Docker;AWS;Linux"
+7,Backend Developer,"Build APIs with Python and Flask, manage PostgreSQL databases.","Python;Flask;PostgreSQL;APIs"
+8,AI Researcher,"Work on cutting-edge AI projects. Strong knowledge in NLP, PyTorch, and transformers.","NLP;PyTorch;Transformers"
+9,Full Stack Developer,"Experience with MERN stack, REST APIs, and version control.","MongoDB;Express;React;Node.js;Git"
+10,Cloud Engineer,"Design and manage scalable infrastructure on Azure and AWS.","Azure;AWS;Infrastructure"
